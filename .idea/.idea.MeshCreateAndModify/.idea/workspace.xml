@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3be179a-36fe-4ca6-bafc-b9a444ed2e82" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2100647618">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Cube.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding>
+                <marker date="1543552890921" expanded="true" signature="115:4692" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="225:243" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="271:404" ph="{...}" />
+                <marker date="1543552890921" expanded="false" signature="438:1405" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="761:1121" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="799:847" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="884:936" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="977:1029" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1069:1117" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1156:1249" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1193:1245" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1284:1373" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1321:1369" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1440:2020" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1707:1902" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="1753:1824" ph="{...}" />
+                <marker date="1543552890921" expanded="false" signature="2083:3044" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="2152:2221" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="2437:2733" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="2558:2658" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="2885:2952" ph="{...}" />
+                <marker date="1543552890921" expanded="false" signature="3110:4102" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="3285:3346" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="3527:3816" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="3646:3742" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="3956:4023" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="4197:4492" ph="{...}" />
+                <marker date="1543552890921" expanded="false" signature="4201:4335" ph="/* v01     v11 ... */" />
+                <marker date="1543552890921" expanded="true" signature="4524:4690" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="4550:4566" ph="{...}" />
+                <marker date="1543552890921" expanded="true" signature="4641:4687" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/RoundedCube.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="77" column="28" lean-forward="true" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+              <folding>
+                <marker date="1543562088265" expanded="true" signature="6:78" ph="..." />
+                <marker date="1543562088265" expanded="true" signature="121:5653" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="285:303" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="331:464" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="498:1546" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="868:1176" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="906:941" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="978:1017" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1058:1097" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1137:1172" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1211:1291" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1248:1287" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1326:1446" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1363:1442" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1602:2263" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1722:1751" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1786:1823" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1845:1874" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1909:1946" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="1968:1997" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="2032:2069" ph="{...}" />
+                <marker date="1543562088265" expanded="false" signature="2299:2879" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="2566:2761" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="2612:2683" ph="{...}" />
+                <marker date="1543562088265" expanded="false" signature="2942:3903" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="3011:3080" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="3296:3592" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="3417:3517" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="3744:3811" ph="{...}" />
+                <marker date="1543562088265" expanded="false" signature="3969:4961" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="4144:4205" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="4386:4675" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="4505:4601" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="4815:4882" ph="{...}" />
+                <marker date="1543562088265" expanded="false" signature="5056:5351" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="5060:5194" ph="/* v01     v11 ... */" />
+                <marker date="1543562088265" expanded="true" signature="5383:5651" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="5409:5425" ph="{...}" />
+                <marker date="1543562088265" expanded="true" signature="5500:5648" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Grid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <folding>
+                <marker date="1432985623000" expanded="true" signature="115:1258" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="218:236" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="264:1256" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="600:778" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="643:774" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="956:1194" ph="{...}" />
+                <marker date="1432985623000" expanded="true" signature="1008:1190" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Cube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/b5/27dc9202/Mesh.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/56/588a03b6/Gizmos.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RoundedCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoundedCube.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="809" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3be179a-36fe-4ca6-bafc-b9a444ed2e82" name="Default Changelist" comment="" />
+      <created>1543541072221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543541072221</updated>
+      <workItem from="1543541076279" duration="11068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11068000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="809" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/RoundedCube.cs</url>
+          <line>95</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/RoundedCube.cs" initialLine="81">
+            <startOffsets>
+              <option value="2299" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2300" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Grid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <folding>
+            <marker date="1432985623000" expanded="true" signature="115:1258" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="218:236" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="264:1256" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="600:778" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="643:774" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="956:1194" ph="{...}" />
+            <marker date="1432985623000" expanded="true" signature="1008:1190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/b5/27dc9202/Mesh.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="410" column="21" selection-start-line="410" selection-start-column="21" selection-end-line="410" selection-end-column="21" />
+          <folding>
+            <marker date="1543195283906" expanded="true" signature="0:333" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1543195283906" expanded="false" signature="341:602" ph="..." />
+            <marker date="1543195283906" expanded="true" signature="625:45260" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="630:744" ph="///   &lt;para&gt;A class that allows creating or modifying meshes from scripts.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="868:45258" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="877:955" ph="///   &lt;para&gt;Creates an empty Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="1000:1046" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="1231:1328" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="1247:1296" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="1306:1322" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="1664:1757" ph="///   &lt;para&gt;Format of the mesh index buffer data.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="4935:5057" ph="///   &lt;para&gt;Gets the number of vertex buffers present in the Mesh. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="5241:5654" ph="///   &lt;para&gt;Retrieves a native (underlying graphics API) pointer to the vertex buffer.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="5883:6125" ph="///   &lt;para&gt;Retrieves a native (underlying graphics API) pointer to the index buffer.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="6324:6418" ph="///   &lt;para&gt;Returns BlendShape count on this mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="6566:6656" ph="///   &lt;para&gt;Clears all blend shapes from Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="6839:6979" ph="///   &lt;para&gt;Returns name of BlendShape by given index.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="7180:7324" ph="///   &lt;para&gt;Returns index of BlendShape by given name.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="7531:7711" ph="///   &lt;para&gt;Returns the frame count for a blend shape.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="7921:8171" ph="///   &lt;para&gt;Returns the weight of a blend shape frame.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="8401:8995" ph="///   &lt;para&gt;Retreives deltaVertices, deltaNormals and deltaTangents of a blend shape frame.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="9297:9797" ph="///   &lt;para&gt;Adds a new blend shape frame.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="10183:10271" ph="///   &lt;para&gt;The bone weights of each vertex.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="10559:10698" ph="///   &lt;para&gt;The bind poses. The bind pose at each index refers to the bone with the same index.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="11333:11453" ph="///   &lt;para&gt;Returns a bool indicated whether the mesh is read/write enabled.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="11705:11816" ph="///   &lt;para&gt;Returns the number of vertices in the Mesh (Read Only).&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="11942:12046" ph="///   &lt;para&gt;The number of sub-meshes inside the Mesh object.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="12310:12398" ph="///   &lt;para&gt;The bounding volume of the mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="12423:12615" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="12439:12538" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="12548:12609" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="13662:14035" ph="///   &lt;para&gt;The UV distribution metric can be used to calculate the desired mipmap level based on the position of ... " />
+            <marker date="1543195283906" expanded="true" signature="14515:14868" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="14544:14862" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="14956:15446" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="15575:15832" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="15607:15741" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="15913:16061" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="16218:16398" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="16534:16663" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="16751:16947" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="17086:17248" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="17339:17568" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="17682:17797" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="17955:18351" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18010:18077" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18088:18345" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18357:18492" ph="///   &lt;para&gt;Returns a copy of the vertex positions or assigns a new vertex positions array.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="18522:18760" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18538:18644" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18654:18754" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18766:18846" ph="///   &lt;para&gt;The normals of the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="18875:19113" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="18891:18997" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19007:19107" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19119:19200" ph="///   &lt;para&gt;The tangents of the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="19230:19470" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19246:19353" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19363:19464" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19476:19573" ph="///   &lt;para&gt;The base texture coordinates of the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="19597:19841" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19613:19722" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19732:19835" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="19847:19961" ph="///   &lt;para&gt;The second texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="19986:20230" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20002:20111" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20121:20224" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20236:20349" ph="///   &lt;para&gt;The third texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="20374:20618" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20390:20499" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20509:20612" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20624:20738" ph="///   &lt;para&gt;The fourth texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="20763:21007" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20779:20888" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="20898:21001" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21013:21126" ph="///   &lt;para&gt;The fifth texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="21151:21395" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21167:21276" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21286:21389" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21401:21514" ph="///   &lt;para&gt;The sixth texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="21539:21783" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21555:21664" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21674:21777" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21789:21904" ph="///   &lt;para&gt;The seventh texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="21929:22173" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="21945:22054" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22064:22167" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22179:22293" ph="///   &lt;para&gt;The eighth texture coordinate set of the mesh, if present.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="22318:22562" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22334:22443" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22453:22556" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22568:22650" ph="///   &lt;para&gt;Vertex colors of the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="22676:22908" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22692:22795" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22805:22902" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="22914:22996" ph="///   &lt;para&gt;Vertex colors of the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="23026:23344" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="23042:23188" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="23198:23338" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="23397:23711" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="23766:23864" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="23915:24225" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="24278:24375" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="24428:24744" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="24799:24898" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="24945:25247" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="25296:25389" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="25438:25716" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="25767:25903" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="25970:26405" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="25999:26399" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="26461:26522" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="26578:26639" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="26695:26756" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="26823:27349" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="26969:27343" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="27405:27466" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="27522:27583" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="27639:27700" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="27748:27952" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28031:28430" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28064:28146" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28492:28560" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28620:28689" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28695:28797" ph="///   &lt;para&gt;An array containing all triangles in the Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="28824:29227" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="28840:29005" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="29015:29221" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="29233:29629" ph="///   &lt;para&gt;Fetches the triangle list for the specified sub-mesh on this object.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="29672:29731" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="29737:30133" ph="///   &lt;para&gt;Fetches the triangle list for the specified sub-mesh on this object.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="30221:30356" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="30420:30483" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="30592:31145" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="31151:31520" ph="///   &lt;para&gt;Fetches the index list for the specified sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="31561:31618" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="31705:31836" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="31896:31955" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="32060:32601" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="32607:32790" ph="///   &lt;para&gt;Gets the starting index location within the Mesh's index buffer, for the given sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="32833:33087" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="33093:33231" ph="///   &lt;para&gt;Gets the index count of the given sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="33274:33528" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="33534:33834" ph="///   &lt;para&gt;Gets the base vertex index of the given sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="33877:34131" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="34249:34372" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="34378:34987" ph="///   &lt;para&gt;Sets the triangle list for the sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="35046:35112" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="35194:35271" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="35277:35886" ph="///   &lt;para&gt;Sets the triangle list for the sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="36026:36243" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="36307:36373" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="36459:36536" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="36681:36933" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="36939:37663" ph="///   &lt;para&gt;Sets the index buffer for the sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="37741:37813" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="37819:38543" ph="///   &lt;para&gt;Sets the index buffer for the sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="38643:38726" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="38732:39456" ph="///   &lt;para&gt;Sets the index buffer for the sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="39615:39834" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="39891:40224" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="40286:40635" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="40641:40793" ph="///   &lt;para&gt;Clears all vertex data and all triangle indices.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="40838:40890" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="40915:40955" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="40961:41079" ph="///   &lt;para&gt;Recalculate the bounding volume of the Mesh from the vertices.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="41115:41327" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="41333:41458" ph="///   &lt;para&gt;Recalculates the normals of the Mesh from the triangles and vertices.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="41495:41709" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="41715:41850" ph="///   &lt;para&gt;Recalculates the tangents of the Mesh from the normals and texture coordinates.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="41888:42104" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="42110:42201" ph="///   &lt;para&gt;Optimize mesh for frequent updates.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="42231:42316" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="42322:42550" ph="///   &lt;para&gt;Upload previously done Mesh modifications to the graphics API.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="42608:42716" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="42722:42849" ph="///   &lt;para&gt;Gets the topology of a sub-mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="42898:43169" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="43175:43643" ph="///   &lt;para&gt;Combines several Meshes into this Mesh.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="43831:43928" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="44025:44112" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="44191:44271" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="44329:44399" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="44405:44492" ph="///   &lt;para&gt;Optimizes the Mesh for display.&lt;/para&gt; ... " />
+            <marker date="1543195283906" expanded="true" signature="44646:44658" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="44959:45163" ph="{...}" />
+            <marker date="1543195283906" expanded="true" signature="45208:45254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Cube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1543552890921" expanded="true" signature="115:4692" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="225:243" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="271:404" ph="{...}" />
+            <marker date="1543552890921" expanded="false" signature="438:1405" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="761:1121" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="799:847" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="884:936" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="977:1029" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1069:1117" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1156:1249" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1193:1245" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1284:1373" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1321:1369" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1440:2020" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1707:1902" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="1753:1824" ph="{...}" />
+            <marker date="1543552890921" expanded="false" signature="2083:3044" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="2152:2221" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="2437:2733" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="2558:2658" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="2885:2952" ph="{...}" />
+            <marker date="1543552890921" expanded="false" signature="3110:4102" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="3285:3346" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="3527:3816" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="3646:3742" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="3956:4023" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="4197:4492" ph="{...}" />
+            <marker date="1543552890921" expanded="false" signature="4201:4335" ph="/* v01     v11 ... */" />
+            <marker date="1543552890921" expanded="true" signature="4524:4690" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="4550:4566" ph="{...}" />
+            <marker date="1543552890921" expanded="true" signature="4641:4687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/56/588a03b6/Gizmos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RoundedCube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="77" column="28" lean-forward="true" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+          <folding>
+            <marker date="1543562088265" expanded="true" signature="6:78" ph="..." />
+            <marker date="1543562088265" expanded="true" signature="121:5653" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="285:303" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="331:464" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="498:1546" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="868:1176" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="906:941" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="978:1017" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1058:1097" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1137:1172" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1211:1291" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1248:1287" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1326:1446" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1363:1442" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1602:2263" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1722:1751" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1786:1823" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1845:1874" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1909:1946" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="1968:1997" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="2032:2069" ph="{...}" />
+            <marker date="1543562088265" expanded="false" signature="2299:2879" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="2566:2761" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="2612:2683" ph="{...}" />
+            <marker date="1543562088265" expanded="false" signature="2942:3903" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="3011:3080" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="3296:3592" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="3417:3517" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="3744:3811" ph="{...}" />
+            <marker date="1543562088265" expanded="false" signature="3969:4961" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="4144:4205" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="4386:4675" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="4505:4601" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="4815:4882" ph="{...}" />
+            <marker date="1543562088265" expanded="false" signature="5056:5351" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="5060:5194" ph="/* v01     v11 ... */" />
+            <marker date="1543562088265" expanded="true" signature="5383:5651" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="5409:5425" ph="{...}" />
+            <marker date="1543562088265" expanded="true" signature="5500:5648" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
