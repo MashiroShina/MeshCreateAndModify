@@ -180,13 +180,13 @@ public class TestDisk : MonoBehaviour
 		{          
 			Debug.DrawLine(MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i]], MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i + 1]], Color.red, 100f);
 
-			yield return new WaitForSeconds(0.2f);
+			yield return new WaitForSeconds(0.05f);
 			Debug.DrawLine(MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i + 1]], MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i + 2]], Color.yellow, 100f);
 
-			yield return new WaitForSeconds(0.2f);
+			yield return new WaitForSeconds(0.05f);
 			Debug.DrawLine(MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i + 2]], MeshFilter.mesh.vertices[MeshFilter.mesh.triangles[i]], Color.blue, 100f);
 
-			yield return new WaitForSeconds(0.2f);
+			yield return new WaitForSeconds(0.05f);
 
 		}
 	}
