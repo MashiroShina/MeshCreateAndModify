@@ -300,6 +300,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   height: 0.4
   radius: 1
+  radius2: 0.5
   details: 20
 --- !u!23 &947032413
 MeshRenderer:
@@ -316,7 +317,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: 1658e044206e94d608145419d1317859, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
