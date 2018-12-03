@@ -78,7 +78,7 @@ public class TestDisk : MonoBehaviour
 		mesh.RecalculateNormals();
 		mesh.RecalculateTangents();
 		MeshFilter.mesh = mesh;
-		//StartCoroutine(SequenceTest());
+		StartCoroutine(SequenceTest());
 	}
 
 	private void AddArcMeshInfo(float begin, float end, List<Vector3> verts, List<Vector2> uvs, List<int> tris)
