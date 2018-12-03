@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-[RequireComponent(typeof(MeshFilter), typeof(MeshRenderer))]
+[RequireComponent(typeof(MeshFilter), typeof(MeshRenderer),typeof(MeshCollider))]
 public class TestDisk : MonoBehaviour
 {
 	private MeshFilter MeshFilter;
 
 	private MeshRenderer MeshRenderer;
+
+	private MeshCollider MeshCollider;
 	
 	public float height = 0.4f;
 	public float radius = 1f;
@@ -21,6 +23,7 @@ public class TestDisk : MonoBehaviour
 	{
 		MeshFilter = transform.GetComponent<MeshFilter>();
 		MeshRenderer = transform.GetComponent<MeshRenderer>();
+		MeshCollider = transform.GetComponent<MeshCollider>();
 	}
 
 	[ContextMenu("GeneratePie")]
@@ -78,6 +81,7 @@ public class TestDisk : MonoBehaviour
 		mesh.RecalculateNormals();
 		mesh.RecalculateTangents();
 		MeshFilter.mesh = mesh;
+		MeshCollider.sharedMesh = mesh;
 		StartCoroutine(SequenceTest());
 	}
 
