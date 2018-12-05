@@ -4,16 +4,29 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="MouseControl.cs" t="Include" />
-        <e p="Potteryprototype.cs" t="Include" />
+        <e p="China" t="Include">
+          <e p="MouseControl.cs" t="Include" />
+          <e p="Potteryprototype.cs" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Blur.shader" t="Include" />
+            <e p="GlowCmdShader.shader" t="Include" />
+            <e p="GlowComposite.shader" t="Include" />
+            <e p="GlowReplace.shader" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="GlowComposite.cs" t="Include" />
+            <e p="GlowController.cs" t="Include" />
+            <e p="GlowObjectCmd.cs" t="Include" />
+          </e>
+        </e>
         <e p="RoundedCube" t="Include">
           <e p="Scripts" t="Include">
             <e p="Cube.cs" t="Include" />
             <e p="Grid.cs" t="Include" />
             <e p="RoundedCube.cs" t="Include" />
+            <e p="TestDisk.cs" t="Include" />
           </e>
         </e>
-        <e p="TestDisk.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="MeshCreateAndModify.sln" t="IncludeFlat" />
