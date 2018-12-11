@@ -272,7 +272,7 @@ public class Potteryprototype : MonoBehaviour {
 				}
 				//Y轴
 				float scale_y = transform.localScale.y;
-				if (Input.GetKey(KeyCode.UpArrow)|| Input.GetAxis("Mouse ScrollWheel")>=0)
+				if (Input.GetKey(KeyCode.UpArrow)|| Input.GetAxis("Mouse ScrollWheel")>0)
 				{
 					scale_y = Mathf.Min(transform.localScale.y + 0.000001f, 2.0f);
 				}
