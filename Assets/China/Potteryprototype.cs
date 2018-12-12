@@ -259,12 +259,12 @@ public class Potteryprototype : MonoBehaviour {
 					//顶点到鼠标Y值之间的距离,余弦cos函数算出实际位移距离
 					float dif = Mathf.Abs(info.point.y - transform.TransformPoint(_vertices[i]).y);
 					//这里cos(0)=1固cos(0.5)>1 意思是距离越远dif越大 cos的值越小位移越小
-					if (Input.GetKey(KeyCode.RightArrow)|| Input.GetMouseButton(0) )
+					if (Input.GetKey(KeyCode.RightArrow))
 					{
 						float outer = max - v_xz.magnitude;
 						_vertices[i] += v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), outer);
 					}
-					else if (Input.GetKey(KeyCode.LeftArrow)||Input.GetMouseButton(1))
+					else if (Input.GetKey(KeyCode.LeftArrow))
 					{
 						float inner = v_xz.magnitude - min;
 						_vertices[i] -= v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), inner);
@@ -272,11 +272,15 @@ public class Potteryprototype : MonoBehaviour {
 				}
 				//Y轴
 				float scale_y = transform.localScale.y;
+<<<<<<< HEAD
 				if (Input.GetKey(KeyCode.UpArrow)|| Input.GetAxis("Mouse ScrollWheel")>0)
+=======
+				if (Input.GetKey(KeyCode.UpArrow))
+>>>>>>> parent of 18c8556... ctrlUpdate
 				{
 					scale_y = Mathf.Min(transform.localScale.y + 0.000001f, 2.0f);
 				}
-				else if (Input.GetKey(KeyCode.DownArrow)|| Input.GetAxis("Mouse ScrollWheel")<0)
+				else if (Input.GetKey(KeyCode.DownArrow))
 				{
 					scale_y = Mathf.Max(transform.localScale.y - 0.000001f, 0.3f);
 				}
