@@ -3,21 +3,24 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(MeshFilter), typeof(MeshRenderer), typeof(MeshCollider))]
-public class Potteryprototype : MonoBehaviour {
+public class Potteryprototype : MonoBehaviour
+{
 
+	private PlayControl _playControl;
+	
 	MeshFilter meshFilter;
 	MeshRenderer meshRenderer;
 	MeshCollider meshCollider;
 	Mesh mesh;
 	
-	public int details = 40;
-	public int layer =20;
-	public float Height = 0.1f;
+	private int details = 40;
+	private int layer =20;
+	private float Height = 0.1f;
 
-	public float OuterRadius = 1.0f;
-	public float InnerRadius = 0.9f;
+	private float OuterRadius = 1.0f;
+	private float InnerRadius = 0.9f;
 
-	public float Smooth=5f;
+	private float Smooth=5f;
 	
 	List<Vector3> vertices;
 	List<Vector2> UV;
@@ -25,12 +28,30 @@ public class Potteryprototype : MonoBehaviour {
 
 	float EachAngle ;
 	int SideCount;
-	
+
+	void init()
+	{
+		_playControl = GetComponent<PlayControl>();
+		setAttributes();
+	}
+
+	private void setAttributes()
+	{
+		details = _playControl.setDetail();
+		layer = _playControl.setLayer();
+		Height = _playControl.setHeight_of_each_floor();
+		OuterRadius = _playControl.setOuterRadius();
+		InnerRadius = _playControl.setInnerRadius();
+		Smooth = _playControl.setchangeBrushsize();
+	}
+
 	// Use this for initialization
-	void Start () {
+	void Start ()
+	{
+		init();
 		meshFilter = GetComponent<MeshFilter>();
 		meshCollider = GetComponent<MeshCollider>();
-		meshRenderer = GetComponent<MeshRenderer>();	
+		meshRenderer = GetComponent<MeshRenderer>();
 		GeneratePrototype();
 		//NormalsReBuild();
 		//StartCoroutine(SequenceTest());
@@ -39,9 +60,8 @@ public class Potteryprototype : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
 	{
-		
-		transform.Rotate(new Vector3(0,1,0)*10f);
-		
+		Smooth = _playControl.setchangeBrushsize();
+		_playControl.setRotate();
 		GetMouseControlTransform();
 		
 	}
@@ -49,6 +69,7 @@ public class Potteryprototype : MonoBehaviour {
 	[ContextMenu("GeneratePottery")]
 	void GeneratePrototype()
 	{
+		setAttributes();
 		vertices = new List<Vector3>();
 		triangles = new List<int>();
 		UV = new List<Vector2>();
@@ -217,7 +238,7 @@ public class Potteryprototype : MonoBehaviour {
 	
 	void GetMouseControlTransform()
 	{
-		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+		Ray ray = Camera.main.ScreenPointToRay(_playControl.getRayPosition());
 		RaycastHit info;
 		if (Physics.Raycast(ray.origin, ray.direction, out info))
 		{
@@ -259,12 +280,12 @@ public class Potteryprototype : MonoBehaviour {
 					//顶点到鼠标Y值之间的距离,余弦cos函数算出实际位移距离
 					float dif = Mathf.Abs(info.point.y - transform.TransformPoint(_vertices[i]).y);
 					//这里cos(0)=1固cos(0.5)>1 意思是距离越远dif越大 cos的值越小位移越小
-					if (Input.GetKey(KeyCode.RightArrow)|| Input.GetMouseButton(0) )
+					if (Input.GetKey(KeyCode.RightArrow)|| _playControl.useMouse(0) )
 					{
 						float outer = max - v_xz.magnitude;
 						_vertices[i] += v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), outer);
 					}
-					else if (Input.GetKey(KeyCode.LeftArrow)||Input.GetMouseButton(1))
+					else if (Input.GetKey(KeyCode.LeftArrow)||_playControl.useMouse(1))
 					{
 						float inner = v_xz.magnitude - min;
 						_vertices[i] -= v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), inner);
@@ -272,11 +293,11 @@ public class Potteryprototype : MonoBehaviour {
 				}
 				//Y轴
 				float scale_y = transform.localScale.y;
-				if (Input.GetKey(KeyCode.UpArrow)|| Input.GetAxis("Mouse ScrollWheel")>0)
+				if (_playControl.useWhell()>0)
 				{
 					scale_y = Mathf.Min(transform.localScale.y + 0.000001f, 2.0f);
 				}
-				else if (Input.GetKey(KeyCode.DownArrow)|| Input.GetAxis("Mouse ScrollWheel")<0)
+				else if (_playControl.useWhell()<0)
 				{
 
 					scale_y = Mathf.Max(transform.localScale.y - 0.000001f, 0.3f);

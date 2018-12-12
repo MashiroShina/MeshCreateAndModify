@@ -5,7 +5,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="China" t="Include">
-          <e p="MouseControl.cs" t="Include" />
+          <e p="debugTest.cs" t="Include" />
+          <e p="FreeCamera.cs" t="Include" />
+          <e p="PlayControl.cs" t="Include" />
           <e p="Potteryprototype.cs" t="Include" />
           <e p="Resources" t="Include">
             <e p="Blur.shader" t="Include" />
