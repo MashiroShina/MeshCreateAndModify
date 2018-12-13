@@ -254,7 +254,7 @@ public class Potteryprototype : MonoBehaviour
 					//计算顶点移动方向的向量,向内或外 因为x和z不变我们只要知道y的高度便可知道
 					//Vector3 v_xz = (transform.TransformPoint(_vertices[i]) - 
 					//              new Vector3(transform.position.x, transform.TransformPoint(_vertices[i]).y, transform.position.z));
-					Vector3 v_xz = transform.TransformDirection(transform.InverseTransformPoint(_vertices[i]) - transform.InverseTransformPoint(new Vector3(0, _vertices[i].y, 0)));
+					Vector3 v_xz = transform.TransformDirection(transform.InverseTransformPoint(_vertices[i]) - transform.InverseTransformPoint(new Vector3(0, _vertices[i].y, 0)));//*Random.Range( 0,2)
 					//外顶点与内顶点移动时相对距离保持不变
                     //计算总顶点数除以每层单侧顶点数的商的奇偶关系来判断是外顶点还是内顶点
 					//假设有16个顶点前8个是外圈后8个是内圈详情看GenerateCircle方法
@@ -274,7 +274,7 @@ public class Potteryprototype : MonoBehaviour
 					}
 					else
 					{
-						max = caps ? 2f * OuterRadius : 2f * OuterRadius - (OuterRadius - InnerRadius); ;
+						max = caps ? 2f * OuterRadius : 2f * OuterRadius - (OuterRadius - InnerRadius);
 						min = caps ? 0.5f * OuterRadius : 0.5f * OuterRadius - (OuterRadius - InnerRadius);
 					}
 					//顶点到鼠标Y值之间的距离,余弦cos函数算出实际位移距离
@@ -282,12 +282,14 @@ public class Potteryprototype : MonoBehaviour
 					//这里cos(0)=1固cos(0.5)>1 意思是距离越远dif越大 cos的值越小位移越小
 					if (Input.GetKey(KeyCode.RightArrow)|| _playControl.useMouse(0) )
 					{
-						float outer = max - v_xz.magnitude;
+						float outer = max- v_xz.magnitude;
+						//outer *= Random.Range(1, 3f);//or //max*Random.Range(0,0.5f) And min*Random.Range(0,0.5f) //or//v_xz.magnitude*Random.Range(1,3f),min*=Random.Range(1,3f)//
 						_vertices[i] += v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), outer);
 					}
 					else if (Input.GetKey(KeyCode.LeftArrow)||_playControl.useMouse(1))
 					{
 						float inner = v_xz.magnitude - min;
+						//inner*=Random.Range(1,3f);
 						_vertices[i] -= v_xz.normalized * Mathf.Min(0.01f * Mathf.Cos(((dif / 5 * Height) * Mathf.PI) / 2), inner);
 					}
 				}

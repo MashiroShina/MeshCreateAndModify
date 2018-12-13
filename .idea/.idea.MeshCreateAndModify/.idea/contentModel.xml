@@ -20,6 +20,7 @@
             <e p="GlowController.cs" t="Include" />
             <e p="GlowObjectCmd.cs" t="Include" />
           </e>
+          <e p="testmousedown.cs" t="Include" />
         </e>
         <e p="RoundedCube" t="Include">
           <e p="Scripts" t="Include">
