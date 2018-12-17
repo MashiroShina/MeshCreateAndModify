@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3be179a-36fe-4ca6-bafc-b9a444ed2e82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/China/Potteryprototype.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/China/Potteryprototype.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/China/debugTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/China/debugTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RoundedCube/Materials/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RoundedCube/Materials/New Material.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +44,15 @@
     <session id="717975256">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -147,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/China/debugTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
+            <state relative-caret-position="630">
               <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
               <folding>
                 <marker date="1544688753767" expanded="true" signature="6:78" ph="..." />
@@ -163,14 +163,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/China/testmousedown.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="540">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <marker date="1544696637307" expanded="true" signature="6:132" ph="..." />
-                <marker date="1544696637307" expanded="true" signature="176:1916" ph="{...}" />
                 <marker date="1544696637307" expanded="true" signature="521:730" ph="{...}" />
                 <marker date="1544696637307" expanded="true" signature="784:807" ph="{...}" />
                 <marker date="1544696637307" expanded="true" signature="829:1001" ph="{...}" />
@@ -185,10 +184,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/CollisionPainter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+              <folding>
+                <marker date="1516382936000" expanded="true" signature="50:715" ph="{...}" />
+                <marker date="1516382936000" expanded="true" signature="159:713" ph="{...}" />
+                <marker date="1516382936000" expanded="true" signature="304:374" ph="{...}" />
+                <marker date="1516382936000" expanded="true" signature="403:427" ph="{...}" />
+                <marker date="1516382936000" expanded="true" signature="479:710" ph="{...}" />
+                <marker date="1516382936000" expanded="true" signature="578:706" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/China/Potteryprototype.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1055">
+            <state relative-caret-position="1140">
               <caret line="76" column="32" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="32" />
               <folding>
                 <marker date="1544671650660" expanded="true" signature="6:78" ph="..." />
@@ -313,6 +329,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/87/13166702/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/c0/de3ef7cb/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/b5/27dc9202/Mesh.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/CollisionPainter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RoundedCube/Scripts/TestDisk.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RoundedCube/Scripts/RoundedCube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/China/FreeCamera.cs" root0="FORCE_HIGHLIGHTING" />
@@ -363,6 +380,7 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -391,7 +409,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -450,11 +467,12 @@
       <workItem from="1544600977211" duration="2239000" />
       <workItem from="1544604795327" duration="3533000" />
       <workItem from="1544667817279" duration="10295000" />
+      <workItem from="1545030020772" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71101000" />
+    <option name="totallyTimeSpent" value="71252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,7 +487,7 @@
     <frame x="-1" y="23" width="1441" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24231593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24588992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -641,19 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-          <folding>
-            <marker date="1544603105725" expanded="false" signature="6:78" ph="..." />
-            <marker date="1544603105725" expanded="true" signature="120:2440" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="440:476" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="497:562" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="585:999" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="589:688" ph="/* 按下后隐藏鼠标 ... */" />
-            <marker date="1544603105725" expanded="true" signature="1022:1207" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="1246:1301" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="1318:2438" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="1343:1515" ph="{...}" />
-            <marker date="1544603105725" expanded="true" signature="1574:1748" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,45 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/Hidden_Blur.mat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/GlowComposite.shader">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/c0/de3ef7cb/Transform.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="77" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/GlowCmdShader.shader">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/China/Scripts/GlowObjectCmd.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RoundedCube/Scripts/TestDisk.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
-          <folding>
-            <marker date="1544459620000" expanded="false" signature="6:97" ph="..." />
-            <marker date="1544459620000" expanded="true" signature="218:4926" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="515:688" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="754:961" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="1024:2065" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="1320:1757" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="1386:1501" ph="/* 先把中心点添加进顶点List中 ... */" />
-            <marker date="1544459620000" expanded="true" signature="1617:1703" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="2175:4214" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="2181:2271" ph="/* begin=0和end=(r *= 2 * Mathf.PI)是开始弧度、结束弧度 相当于外圈的长度 ... */" />
-            <marker date="1544459620000" expanded="true" signature="2393:2818" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="2839:3266" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="3391:3509" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="3555:3984" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="3560:3722" ph="/* tris.Add(i); ... */" />
-            <marker date="1544459620000" expanded="true" signature="4242:4924" ph="{...}" />
-            <marker date="1544459620000" expanded="true" signature="4309:4921" ph="{...}" />
-          </folding>
+        <state relative-caret-position="620">
+          <caret line="768" column="28" selection-start-line="768" selection-start-column="16" selection-end-line="768" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -735,9 +705,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RoundedCube/Scripts/TestDisk.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+          <folding>
+            <marker date="1544459620000" expanded="false" signature="6:97" ph="..." />
+            <marker date="1544459620000" expanded="true" signature="218:4926" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="515:688" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="754:961" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="1024:2065" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="1320:1757" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="1386:1501" ph="/* 先把中心点添加进顶点List中 ... */" />
+            <marker date="1544459620000" expanded="true" signature="1617:1703" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="2175:4214" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="2181:2271" ph="/* begin=0和end=(r *= 2 * Mathf.PI)是开始弧度、结束弧度 相当于外圈的长度 ... */" />
+            <marker date="1544459620000" expanded="true" signature="2393:2818" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="2839:3266" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="3391:3509" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="3555:3984" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="3560:3722" ph="/* tris.Add(i); ... */" />
+            <marker date="1544459620000" expanded="true" signature="4242:4924" ph="{...}" />
+            <marker date="1544459620000" expanded="true" signature="4309:4921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/China/debugTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
+        <state relative-caret-position="630">
           <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
           <folding>
             <marker date="1544688753767" expanded="true" signature="6:78" ph="..." />
@@ -752,180 +748,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D569CB30-37DD-4660-A175-BF2FB519BD4D/c0/de3ef7cb/Transform.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="768" column="28" selection-start-line="768" selection-start-column="16" selection-end-line="768" selection-end-column="28" />
-          <folding>
-            <marker date="1544513901346" expanded="true" signature="0:338" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1544513901346" expanded="false" signature="346:503" ph="..." />
-            <marker date="1544513901346" expanded="true" signature="526:30865" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="531:625" ph="///   &lt;para&gt;Position, rotation and scale of an object.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="880:30863" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="910:922" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="928:1029" ph="///   &lt;para&gt;The position of the transform in world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="1057:1254" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1073:1175" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1185:1248" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1260:1375" ph="///   &lt;para&gt;Position of the transform relative to the parent transform.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="1408:1615" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1424:1531" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1541:1609" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1678:1784" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="1859:1930" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2022:2084" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2090:2186" ph="///   &lt;para&gt;The rotation as Euler angles in degrees.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="2217:2372" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2233:2291" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2301:2366" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2378:2518" ph="///   &lt;para&gt;The rotation as Euler angles in degrees relative to the parent transform's rotation.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="2554:2719" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2570:2633" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2643:2713" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2725:2826" ph="///   &lt;para&gt;The red axis of the transform in world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="2851:3034" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2867:2929" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="2939:3028" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3040:3143" ph="///   &lt;para&gt;The green axis of the transform in world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="3165:3342" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3181:3240" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3250:3336" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3348:3450" ph="///   &lt;para&gt;The blue axis of the transform in world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="3477:3645" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3493:3557" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3567:3639" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3651:3775" ph="///   &lt;para&gt;The rotation of the transform in world space stored as a Quaternion.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="3806:4006" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3822:3927" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="3937:4000" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4012:4147" ph="///   &lt;para&gt;The rotation of the transform relative to the transform rotation of the parent.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="4183:4393" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4199:4309" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4319:4387" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4475:4649" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4491:4571" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="4581:4643" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5045:5151" ph="///   &lt;para&gt;The scale of the transform relative to the parent.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="5181:5382" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5197:5301" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5311:5376" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5388:5472" ph="///   &lt;para&gt;The parent of the transform.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="5500:6012" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5516:5568" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="5578:6006" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="6051:6179" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="6067:6116" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="6126:6173" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="6277:6688" ph="///   &lt;para&gt;Set the parent of the transform.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="6727:6770" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="6776:7187" ph="///   &lt;para&gt;Set the parent of the transform.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="7375:7508" ph="///   &lt;para&gt;Matrix that transforms a point from world space into local space (Read Only).&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="7548:7684" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="7564:7678" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="7690:7823" ph="///   &lt;para&gt;Matrix that transforms a point from local space into world space (Read Only).&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="7863:7999" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="7879:7993" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="8005:8211" ph="///   &lt;para&gt;Sets the world space position and rotation of the Transform component.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="8289:8373" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="8379:8585" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="8679:8840" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="8846:9052" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="9099:9158" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="9164:9447" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="9547:9615" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="9621:9904" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="9957:10025" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="10031:10237" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="10306:10476" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="10482:10765" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="10840:10908" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="10914:11269" ph="///   &lt;para&gt;Applies a rotation of eulerAngles.z degrees around the z axis, eulerAngles.x degrees around the x axi ... " />
-            <marker date="1544513901346" expanded="true" signature="11355:11623" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="11663:11714" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="11720:12220" ph="///   &lt;para&gt;Applies a rotation of zAngle degrees around the z axis, xAngle degrees around the x axis, and yAngle  ... " />
-            <marker date="1544513901346" expanded="true" signature="12332:12412" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="12478:12558" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="12660:12731" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="12737:13048" ph="///   &lt;para&gt;Rotates the object around axis by angle degrees.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="13145:13389" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="13440:13496" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="13502:13761" ph="///   &lt;para&gt;Rotates the transform about axis passing through point in world coordinates by angle degrees.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="13832:14076" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="14082:14358" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at target's current position.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="14445:14555" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="14561:14837" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at target's current position.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="14878:14991" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="14997:15261" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at worldPosition.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="15353:15417" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="15423:15687" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at worldPosition.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="15733:15800" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="15936:16017" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="16023:16173" ph="///   &lt;para&gt;Transforms direction from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="16230:16343" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="16349:16565" ph="///   &lt;para&gt;Transforms direction x, y, z from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="16630:16702" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="16708:16906" ph="///   &lt;para&gt;Transforms a direction from world space to local space. The opposite of Transform.TransformDirection. ... " />
-            <marker date="1544513901346" expanded="true" signature="16970:17090" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="17096:17362" ph="///   &lt;para&gt;Transforms the direction x, y, z from world space to local space. The opposite of Transform.Transform ... " />
-            <marker date="1544513901346" expanded="true" signature="17434:17513" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="17519:17663" ph="///   &lt;para&gt;Transforms vector from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="17714:17821" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="17827:18040" ph="///   &lt;para&gt;Transforms vector x, y, z from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="18102:18171" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="18177:18366" ph="///   &lt;para&gt;Transforms a vector from world space to local space. The opposite of Transform.TransformVector.&lt;/para ... " />
-            <marker date="1544513901346" expanded="true" signature="18424:18538" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="18544:18804" ph="///   &lt;para&gt;Transforms the vector x, y, z from world space to local space. The opposite of Transform.TransformVec ... " />
-            <marker date="1544513901346" expanded="true" signature="18873:18949" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="18955:19103" ph="///   &lt;para&gt;Transforms position from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="19155:19263" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="19269:19488" ph="///   &lt;para&gt;Transforms the position x, y, z from local space to world space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="19549:19617" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="19623:19771" ph="///   &lt;para&gt;Transforms position from world space to local space.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="19830:19945" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="19951:20212" ph="///   &lt;para&gt;Transforms the position x, y, z from world space to local space. The opposite of Transform.TransformP ... " />
-            <marker date="1544513901346" expanded="true" signature="20280:20355" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="20361:20464" ph="///   &lt;para&gt;Returns the topmost transform in the hierarchy.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="20490:20559" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="20506:20553" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="20655:20759" ph="///   &lt;para&gt;The number of children the parent Transform has.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="20886:20965" ph="///   &lt;para&gt;Unparents all children.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="21122:21238" ph="///   &lt;para&gt;Move the transform to the start of the local transform list.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="21337:21451" ph="///   &lt;para&gt;Move the transform to the end of the local transform list.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="21549:21678" ph="///   &lt;para&gt;Sets the sibling index.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="21784:21863" ph="///   &lt;para&gt;Gets the sibling index.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="22172:22440" ph="///   &lt;para&gt;Finds a child by n and returns it.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="22476:22643" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="22793:22892" ph="///   &lt;para&gt;The global scale of the object (Read Only).&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="22922:23085" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="22975:23079" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="23091:23221" ph="///   &lt;para&gt;Is this transform a child of parent?&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="23416:23546" ph="///   &lt;para&gt;Has the transform changed since the last time the flag was set to 'false'?&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="23896:23935" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="23975:24046" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="24052:24181" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="24293:24356" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="24474:24542" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="24548:24844" ph="///   &lt;para&gt;Returns a transform child by index.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="25258:25381" ph="///   &lt;para&gt;The transform capacity of the transform's hierarchy data structure.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="25414:25582" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="25430:25499" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="25509:25576" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="25944:26069" ph="///   &lt;para&gt;The number of transforms in the transform's hierarchy data structure.&lt;/para&gt; ... " />
-            <marker date="1544513901346" expanded="true" signature="26099:26187" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="26115:26181" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30367:30859" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30485:30529" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30558:30672" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30578:30664" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30702:30778" ph="{...}" />
-            <marker date="1544513901346" expanded="true" signature="30805:30853" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/China/Potteryprototype.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1055">
+        <state relative-caret-position="1140">
           <caret line="76" column="32" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="32" />
           <folding>
             <marker date="1544671650660" expanded="true" signature="6:78" ph="..." />
@@ -988,13 +813,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/Hidden_Blur.mat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/GlowComposite.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="77" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/China/Resources/GlowCmdShader.shader">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/China/Scripts/GlowObjectCmd.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/China/testmousedown.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="540">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <marker date="1544696637307" expanded="true" signature="6:132" ph="..." />
-            <marker date="1544696637307" expanded="true" signature="176:1916" ph="{...}" />
             <marker date="1544696637307" expanded="true" signature="521:730" ph="{...}" />
             <marker date="1544696637307" expanded="true" signature="784:807" ph="{...}" />
             <marker date="1544696637307" expanded="true" signature="829:1001" ph="{...}" />
@@ -1004,6 +844,21 @@
             <marker date="1544696637307" expanded="true" signature="1329:1914" ph="{...}" />
             <marker date="1544696637307" expanded="true" signature="1463:1525" ph="/* y = Mathf.Clamp(y, -60, 80); ... */" />
             <marker date="1544696637307" expanded="true" signature="1744:1911" ph="/* camPosRotation* distanceVec返回一个Vector3朝向你的四元数的方向headRotation。 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InkPainter/Sample/Script/CollisionPainter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <marker date="1516382936000" expanded="true" signature="50:715" ph="{...}" />
+            <marker date="1516382936000" expanded="true" signature="159:713" ph="{...}" />
+            <marker date="1516382936000" expanded="true" signature="304:374" ph="{...}" />
+            <marker date="1516382936000" expanded="true" signature="403:427" ph="{...}" />
+            <marker date="1516382936000" expanded="true" signature="479:710" ph="{...}" />
+            <marker date="1516382936000" expanded="true" signature="578:706" ph="{...}" />
           </folding>
         </state>
       </provider>
