@@ -63,7 +63,7 @@ public class Potteryprototype : MonoBehaviour
 		Smooth = _playControl.setchangeBrushsize();
 		_playControl.setRotate();
 		GetMouseControlTransform();
-		
+		//Debug.Log(points);
 	}
 
 	[ContextMenu("GeneratePottery")]
@@ -242,6 +242,7 @@ public class Potteryprototype : MonoBehaviour
 		RaycastHit info;
 		if (Physics.Raycast(ray.origin, ray.direction, out info))
 		{
+			//Debug.Log(info.point.y);
 			Mesh mesh = meshFilter.mesh;
 			Vector3[] _vertices = mesh.vertices;
 			for (int i = 0; i < _vertices.Length; i++)
@@ -249,8 +250,10 @@ public class Potteryprototype : MonoBehaviour
 				//x,z平面变换
 				//顶点移动与Y值的关系限制在5倍单层高度//Smooth=5
 				//限制高度越大,曲线越平滑
+				
 				if (Mathf.Abs(info.point.y - transform.TransformPoint(_vertices[i]).y) < (Smooth * Height))
 				{
+					
 					//计算顶点移动方向的向量,向内或外 因为x和z不变我们只要知道y的高度便可知道
 					//Vector3 v_xz = (transform.TransformPoint(_vertices[i]) - 
 					//              new Vector3(transform.position.x, transform.TransformPoint(_vertices[i]).y, transform.position.z));
@@ -426,4 +429,13 @@ public class Potteryprototype : MonoBehaviour
         mesh.normals = normals;
         meshFilter.mesh = mesh;
     }
+
+	private Vector3 points;
+
+	private void OnCollisionEnter(Collision other)
+	{
+		ContactPoint c = other.contacts[0];
+		points = c.point;
+		
+	}
 }

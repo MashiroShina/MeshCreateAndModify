@@ -5,6 +5,7 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="blend.shader" t="Include" />
         <e p="China" t="Include">
           <e p="debugTest.cs" t="Include" />
           <e p="FreeCamera.cs" t="Include" />
@@ -89,6 +90,17 @@
             <e p="RoundedCube.cs" t="Include" />
             <e p="TestDisk.cs" t="Include" />
           </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="MyLightingShaderGUI.cs" t="Include" />
+          </e>
+          <e p="TangentSpaceVisualizer.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="My First Lighting Shader.shader" t="Include" />
+          <e p="My Lighting.cginc" t="Include" />
+          <e p="My Shadows.cginc" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
